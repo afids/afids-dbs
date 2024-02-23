@@ -1,2 +1,5 @@
 # afids-dbs
-Data, code, and analysis for characterizing localization and registration errors during DBS using AFIDs
+Manuscript entitled: The impact of localization and registration accuracy on estimates of deep brain stimulation electrode position in stereotactic space
+
+Preprint available at:
+Accepted manuscript at:
