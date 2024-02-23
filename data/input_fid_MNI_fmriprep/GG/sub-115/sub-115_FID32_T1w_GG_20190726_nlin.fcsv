@@ -1,0 +1,35 @@
+# Markups fiducial file version = 4.11
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-0.197194,2.372,-3.5406,0,0,0,1,1,1,1,1,AC,vtkMRMLScalarVolumeNode1
+1,0.019546,-25.2303,-1.99307,0,0,0,1,1,1,1,2,PC,vtkMRMLScalarVolumeNode1
+1,0.435521,-37.1782,-10.9991,0,0,0,1,1,1,1,3,infracollicular sulcus,vtkMRMLScalarVolumeNode1
+1,1.64286,30.7123,0.583309,0,0,0,1,1,1,1,19,Genu of CC,vtkMRMLScalarVolumeNode1
+1,-0.470427,-22.4698,-20.0821,0,0,0,1,1,1,1,4,PMJ,vtkMRMLScalarVolumeNode1
+1,-0.0853075,-15.5437,-11.0275,0,0,0,1,1,1,1,5,superior interpeduncular fossa,vtkMRMLScalarVolumeNode1
+1,11.6956,-28.3876,-10.2483,0,0,0,1,1,1,1,6,R superior LMS,vtkMRMLScalarVolumeNode1
+1,-13.765,-28.6046,-9.17539,0,0,0,1,1,1,1,7,L superior LMS,vtkMRMLScalarVolumeNode1
+1,11.3375,-29.7699,-17.2545,0,0,0,1,1,1,1,8,R inferior LMS,vtkMRMLScalarVolumeNode1
+1,-12.7078,-28.5777,-19.3739,0,0,0,1,1,1,1,9,L inferior LMS,vtkMRMLScalarVolumeNode1
+1,1.67097,-49.9662,5.6984,0,0,0,1,1,1,1,10,Culman,vtkMRMLScalarVolumeNode1
+1,-0.179983,-8.83203,-12.4518,0,0,0,1,1,1,1,11,Intermammillary sulcus,vtkMRMLScalarVolumeNode1
+1,1.66631,-9.28965,-12.5844,0,0,0,1,1,1,1,12,R MB,vtkMRMLScalarVolumeNode1
+1,-2.20942,-9.11277,-12.3001,0,0,0,1,1,1,1,13,L MB,vtkMRMLScalarVolumeNode1
+1,0.429879,-34.6738,3.63254,0,0,0,1,1,1,1,14,pineal gland,vtkMRMLScalarVolumeNode1
+1,15.7012,2.89105,26.4239,0,0,0,1,1,1,1,15,R LV at AC,vtkMRMLScalarVolumeNode1
+1,-17.0186,2.64656,25.3521,0,0,0,1,1,1,1,16,L LV at AC,vtkMRMLScalarVolumeNode1
+1,19.4428,-22.9642,27.8964,0,0,0,1,1,1,1,17,R LV at PC,vtkMRMLScalarVolumeNode1
+1,-18.9863,-23.7467,28.0691,0,0,0,1,1,1,1,18,L LV at PC,vtkMRMLScalarVolumeNode1
+1,1.46711,-36.2784,8.94957,0,0,0,1,1,1,1,20,Splenium of CC,vtkMRMLScalarVolumeNode1
+1,30.9606,-3.92034,-29.023,0,0,0,1,1,1,1,21,R AL temporal horn,vtkMRMLScalarVolumeNode1
+1,-32.3438,-4.03138,-33.9127,0,0,0,1,1,1,1,22,L AL temporal horn,vtkMRMLScalarVolumeNode1
+1,19.7464,-11.2492,-15.8168,0,0,0,1,1,1,1,23,R superior AM temporal horn,vtkMRMLScalarVolumeNode1
+1,-21.242,-10.9044,-17.333,0,0,0,1,1,1,1,24,L superior AM temporal horn,vtkMRMLScalarVolumeNode1
+1,21.668,-2.25963,-30.4421,0,0,0,1,1,1,1,25,R inferior AM temporal horn,vtkMRMLScalarVolumeNode1
+1,-23.5237,-1.93757,-33.8044,0,0,0,1,1,1,1,26,L inferior AM temporal horn,vtkMRMLScalarVolumeNode1
+1,17.6526,-39.4582,2.96236,0,0,0,1,1,1,1,27,R indusium griseum origin,vtkMRMLScalarVolumeNode1
+1,-21.5941,-43.7026,1.42084,0,0,0,1,1,1,1,28,L indusium griseum origin,vtkMRMLScalarVolumeNode1
+1,24.1091,-79.7975,-3.50894,0,0,0,1,1,1,1,29,R ventral occipital horn,vtkMRMLScalarVolumeNode1
+1,-15.991,-87.0175,1.4801,0,0,0,1,1,1,1,30,L ventral occipital horn,vtkMRMLScalarVolumeNode1
+1,12.8274,18.8398,-12.5701,0,0,0,1,1,1,1,31,R olfactory sulcal fundus,vtkMRMLScalarVolumeNode1
+1,-13.5411,18.2601,-13.9563,0,0,0,1,1,1,1,32,L olfactory sulcal fundus,vtkMRMLScalarVolumeNode1
