@@ -3,7 +3,7 @@ clear all
 clc
 
 %% Load files
-main_dir = 'C:\Research\DBS_Retro\Final';
+main_dir = 'afids-dbs'; % path to cloned repo
 dir_dat = fullfile(main_dir,'data');
 dir_out = fullfile(main_dir,'Output');
 

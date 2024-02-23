@@ -1,9 +1,9 @@
-%% AC/PC comarison - b/w lead DBS and Raters
+%% AC/PC comparison - b/w lead DBS and Raters
 clear all
 clc
 
 %% Load Files
-main_dir = 'C:\Research\DBS_Retro\Final';
+main_dir = 'afids-dbs'; % path to cloned repo
 dir_dat = fullfile(main_dir,'data');
 dir_out = fullfile(main_dir,'Output');
 
